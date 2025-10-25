@@ -1,2 +1,17 @@
-# pandas-numpy-data-analysis
-A Jupyter Notebook demonstrating data manipulation and analysis using Pandas and NumPy libraries in Python. Includes examples of data cleaning, transformation, and basic statistical operations.
+# Pandas & NumPy Data Analysis
+
+This repository contains a Jupyter Notebook showcasing data analysis and manipulation using **Pandas** and **NumPy**. It demonstrates how to handle, clean, transform, and analyze datasets efficiently using these powerful Python libraries.
+
+##  Contents
+- Introduction to Pandas and NumPy
+- DataFrame creation and manipulation
+- Data cleaning and transformation
+- Descriptive statistics and operations
+- Example code snippets and explanations
+
+##  Technologies Used
+- Python 3.x  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+
